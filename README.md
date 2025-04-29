@@ -74,10 +74,6 @@ Create a `.env` file in the project root:
 ```
 DEBUG=True
 SECRET_KEY=your_django_secret_key
-DATABASE_USER=database_owner
-DATABASE_PASSWORD=database_password
-DATABASE_HOST=database_host
-DATABASE_PORT=database_port
 TELEGRAM_TOKEN=your_telegram_bot_token
 ```
 
